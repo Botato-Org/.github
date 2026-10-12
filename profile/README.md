@@ -7,7 +7,7 @@
 
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5E1A&center=true&vCenter=true&width=520&lines=Build.+Grow.+Serve.;Student+robotics+team+%7C+University+of+Moratuwa;From+first+prototype+to+podium+%F0%9F%A5%94" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5E1A&center=true&vCenter=true&width=720&lines=Build.+Grow.+Serve.;Student+robotics+team+%7C+University+of+Moratuwa" alt="Typing SVG" /></a>
 
 <br>
 
