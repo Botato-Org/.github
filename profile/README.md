@@ -5,11 +5,10 @@
   <img src="https://raw.githubusercontent.com/Botato-Org/.github/main/profile/botato-horizontal-transparent-for-light-bg.png" alt="Team Botato" width="420">
 </picture>
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5E1A&center=true&vCenter=true&width=720&lines=Build.+Grow.+Serve.;Student+robotics+team+%7C+University+of+Moratuwa" alt="Typing SVG" /></a>
 
-<br>
 
 <img src="https://img.shields.io/badge/University%20of%20Moratuwa-Sri%20Lanka-FF5E1A?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-Autonomous%20Robotics-FF5E1A?style=flat-square" />
