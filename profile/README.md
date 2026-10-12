@@ -30,6 +30,43 @@ We build autonomous robots from the ground up, learn by breaking things, and sha
 | 🥈 | **1st Runner-Up**, ROBOFEST 2026 | SLIIT |
 | 🏅 | **5th Place**, Xbotix 2025 | University of Ruhuna |
 
+## 👥 Meet the team
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://github.com/isiwaraMallawaarachchi">
+        <img src="https://wsrv.nl/?url=https://github.com/isiwaraMallawaarachchi.png&w=260&h=260&fit=cover&mask=circle" width="130" alt="Isiwara Mallawaarachchi" /><br />
+        <sub><b>Isiwara Mallawaarachchi</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/NimithInduwara">
+        <img src="https://wsrv.nl/?url=https://github.com/NimithInduwara.png&w=260&h=260&fit=cover&mask=circle" width="130" alt="Nimith Induwara" /><br />
+        <sub><b>Nimith Induwara</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/Janiru360">
+        <img src="https://wsrv.nl/?url=https://github.com/Janiru360.png&w=260&h=260&fit=cover&mask=circle" width="130" alt="Janiru Dewanmith" /><br />
+        <sub><b>Janiru Dewanmith</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/kavindu0819">
+        <img src="https://wsrv.nl/?url=https://github.com/kavindu0819.png&w=260&h=260&fit=cover&mask=circle" width="130" alt="Kavindu Jayalath" /><br />
+        <sub><b>Kavindu Jayalath</b></sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/KAVINDUxd">
+        <img src="https://wsrv.nl/?url=https://github.com/KAVINDUxd.png&w=260&h=260&fit=cover&mask=circle" width="130" alt="Kavindu Mihisara" /><br />
+        <sub><b>Kavindu Mihisara</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🤖 Our Robots
 
 | Robot | Story |
