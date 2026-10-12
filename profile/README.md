@@ -17,9 +17,9 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Botato-Org/.github/main/profile/botato-icon.png" height="26" alt="Botato" /> Who we are
+## 🥔 Who we are
 
-**Team Botato** is a student robotics team from the **University of Moratuwa, Sri Lanka**.  
+**Team Botato** (*bot + potato*) is a student robotics team from the **University of Moratuwa, Sri Lanka**.  
 We build autonomous robots from the ground up, learn by breaking things, and share what we learn.
 
 ## 🏆 Achievements
